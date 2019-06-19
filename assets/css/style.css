@@ -1,0 +1,42 @@
+.logo{
+  font-family: 'Lobster', sans-serif;
+  font-size: 2rem;
+}
+header {
+  background-image: url('../img/camila.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.lineablanca{
+  border-color: #FFFFFF;
+  width: 50%;
+  border-width: 2px;
+}
+
+.altura{
+  height: 700px;
+}
+
+.nombre{
+  left:0;
+  right:0;
+  top:40%;
+}
+
+.fondotrabajos{
+  background-color: #e6dfe0;
+}
+
+.carousel-indicators {
+  top: 220px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border:none;
+  border-radius: 50%;
+  background: #373A3C;
+}
